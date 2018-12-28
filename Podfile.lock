@@ -1,0 +1,22 @@
+PODS:
+  - Unicore (1.0.0)
+
+DEPENDENCIES:
+  - "Unicore (from `git@github.com:Unicore/Unicore.git`, branch `release-1-0`)"
+
+EXTERNAL SOURCES:
+  Unicore:
+    :branch: release-1-0
+    :git: "git@github.com:Unicore/Unicore.git"
+
+CHECKOUT OPTIONS:
+  Unicore:
+    :commit: a1c1ea23c3bea94b0df5881a430c803796f7c302
+    :git: "git@github.com:Unicore/Unicore.git"
+
+SPEC CHECKSUMS:
+  Unicore: abcd551d9bf39bb92debc15ac87b6ef282d9b91c
+
+PODFILE CHECKSUM: b8d5110e850a3d2da2d8afd4a8b6af0334dee949
+
+COCOAPODS: 1.5.3
